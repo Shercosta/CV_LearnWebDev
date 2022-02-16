@@ -1,0 +1,20 @@
+body {
+  background-color: #C6D4FF;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: #011627;
+  width: 4%;
+  }
+
+h1 {
+  color: #5171A5;
+  font-family: 'segoe script';
+}
+
+h3 {
+  font-family: 'segoe print';
+  color: #E63946;
+}
